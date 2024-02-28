@@ -1,0 +1,37 @@
+/* Стиль для ссылок */
+a {
+    text-decoration: none;    
+}
+
+/* Класс для меню */
+.menu-link {
+    color: cornflowerblue; /* Цвет ссылок меню */
+    font-size: 16px; /* Размер шрифта */
+    line-height: 20px; /* Межстрочный интервал */
+}
+
+/* Стиль для заголовков h1 */
+.h1-style {
+    color: #222222; /* Цвет текста */
+    font-size: 28px; /* Размер шрифта */
+    line-height: 36px; /* Межстрочный интервал */
+    font-weight: bold; /* Жирный шрифт */
+}
+
+/* Стиль для параграфов */
+.paragraph-style {
+    font-style: normal; /* Обычный стиль */
+    font-weight: 300; /* Нормальная толщина шрифта */
+    font-size: 18px; /* Размер шрифта */
+    line-height: 30px; /* Межстрочный интервал */
+    color: #7D7987; /* Цвет текста */
+}
+
+/* Стиль для заголовков h2 */
+.h2-style {
+    color: coral; /* Цвет текста */
+    font-style: normal; /* Обычный стиль */
+    font-weight: 700; /* Жирный шрифт */
+    font-size: 36px; /* Размер шрифта */
+    line-height: 80px; /* Межстрочный интервал */
+}
